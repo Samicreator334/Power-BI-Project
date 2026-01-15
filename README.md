@@ -56,3 +56,40 @@ CALCULATE (
 
 YTD_VS_PYTD :=
 [S_YTD] - [S_PYTD]
+```
+
+## ✨ Features & Highlights
+
+### KPI Cards
+- YTD Sales  
+- PYTD Sales  
+- YTD vs PYTD Variance  
+- Gross Profit %
+
+### Monthly Performance
+- Waterfall chart showing monthly increases and decreases in YTD sales
+
+### Geographic Analysis
+- Treemap highlighting **Bottom 10 countries** by YTD vs PYTD variance
+
+### Product Performance
+- Quarterly stacked column chart by **Product Type**
+- PYTD trend line overlay for year-over-year comparison
+
+### Customer Profitability
+- Scatter plot of **YTD Sales vs Gross Profit %**
+- Identifies high-sales / low-margin customer accounts
+
+### Interactivity
+- Year slicer  
+- Metric selector (Sales / Quantity / Gross Profit)  
+- Cross-filtering across all visuals
+
+---
+
+## 🎯 Business Value
+- Enables executives to quickly assess **current performance vs last year**
+- Identifies **underperforming regions and products**
+- Highlights **profitability risks** in high-revenue customer accounts
+- Supports **data-driven strategic decision-making**
+
