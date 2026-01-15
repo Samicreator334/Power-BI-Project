@@ -1,7 +1,7 @@
 # 🌱 Plant.co Sales Performance Dashboard (2023)
 
 ## 📊 Overview
-This project is an interactive **Power BI dashboard** analyzing **Plant.co’s sales performance for 2023**.  
+This project is an interactive **Power BI dashboard** analyzing **Plant.co’s sales performance**.  
 It focuses on **Year-to-Date (YTD)** performance, comparison against **Previous Year-to-Date (PYTD)**, profitability analysis (**Gross Profit %**), and trend identification across **time, geography, product types, and customer accounts**.
 
 The dashboard is designed to support **executive-level decision-making** while still allowing **deep analytical exploration**.
